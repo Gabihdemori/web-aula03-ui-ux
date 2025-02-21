@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nome": "Vestido",
+        "descricao": "vestido farm longo bordado",
+        "preco": 240.90,
+        "imagem": "https://images.tcdn.com.br/img/img_prod/790067/vestido_farm_longo_bordado_danca_de_listra_v25_329721_14269_1_d7b825fee05406d84ded6c934e292fe0.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Vestido",
+        "descricao": "Vestido Curto Jardim Clássico",
+        "preco": 139.99,
+        "imagem": "https://oficinamuda.vteximg.com.br/arquivos/ids/303768-480-720/FAR31448540180_1.jpg?v=638577928025500000"
+        },
+    {
+        "id": 3,
+        "nome": "Vestido",
+        "descricao": "Vestido Longo Maragoji",
+        "preco": 209.30,
+        "imagem": "https://oficinamuda.vteximg.com.br/arquivos/ids/301415-480-720/FAR30745819985_1.jpg?v=638577809384300000"
+    },
+    {
+        "id": 4,
+        "nome": "Vestido",
+        "descricao": "Vestido Longo Pamela",
+        "preco": 249.99,
+        "imagem": "https://oficinamuda.vteximg.com.br/arquivos/ids/269599-480-720/FAR30503319437_1.jpg?v=638754013681500000"
+    },
+    {
+        "id": 6,
+        "nome": "Vestido",
+        "descricao": "Vestido Curto Amazônia Ribeirinha",
+        "preco": 158.0,
+        "imagem": "https://lojafarm.vteximg.com.br/arquivos/ids/3411915/333303_49120_1-VESTIDO-CURTO-AMAZONIA-RIBEIRINHA.jpg?v=638590759067800000"
+    }
+   
+]
